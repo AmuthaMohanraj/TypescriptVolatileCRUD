@@ -16,7 +16,7 @@ class student{
         {id:1,name:'mohan',age:21,isActive:true},
         {id:2,name:'chandru',age:23,isActive:true},
         {id:3,name:'komathi',age:19,isActive:true},
-        {id:4,name:'poongodi',age:25,isActive:true},
+        {id:4,name:'poongodi',age:25,isActive:true},    
         {id:5,name:'perumal',age:21,isActive:false}
       ]
     }
